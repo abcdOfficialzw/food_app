@@ -1,0 +1,4 @@
+#Mon Nov 14 15:28:54 CAT 2022
+base.0=C\:\\Users\\titus\\flutter_projects\\ui_design\\food_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
